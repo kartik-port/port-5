@@ -1,0 +1,94 @@
+{
+	"navbarContent": {
+		"our-ambition": "About me",
+		"what-we-do": "My work",
+		"transformation": "My process",
+		"our-impact": "Testimonials",
+		"get-in-touch": "Get in touch"
+	},
+	"heroContent": {
+		"welcome-to-the-world-of": "Welcome to the portfolio of",
+		"where-the-journey": "Where creativity meets innovation and <br/> every project tells a unique story.",
+		"lets-build": "Let's create something amazing",
+		"start": "start exploring"
+	},
+	"journeyContent": {
+		"journeyContent": "I'm a passionate developer and designer who creates digital experiences that blend creativity with functionality. Every project is an opportunity to solve problems and bring ideas to life."
+	},
+	"companiesContent": {
+		"companiesHeading": "At the core of every great project lies a perfect blend of technical expertise and creative vision — where innovative solutions meet user-centered design. This is why I believe in creating digital experiences that not only function flawlessly but also inspire and engage users.",
+		"companiesPara": "Great projects are built with clean code, thoughtful design, and a deep understanding of user needs. They adapt to changing requirements while maintaining performance and accessibility, creating lasting value for both users and businesses.",
+		"companiesPara1": "My approach combines modern development practices with creative problem-solving, ensuring each project is not just functional but also meaningful and impactful.",
+		"companiesPara2": "From concept to deployment, I focus on creating solutions that are scalable, maintainable, and deliver exceptional user experiences across all platforms and devices."
+	},
+	"whatwedoContent": {
+		"whatwedoHeading": "I specialize in four core areas of digital creation: Frontend Development, <br /> UI/UX Design, Full-Stack Solutions, and Mobile Applications. I help bring ideas <br /> to life through clean code and thoughtful design.",
+		"title1": "React, Next.js, TypeScript & Modern Frameworks",
+		"heading1": "Frontend",
+		"heading2": "Development",
+		"para1": "Building responsive, performant web applications using cutting-edge technologies and best practices for optimal user experiences.",
+		"href1": "View frontend projects",
+		"bgColor1": "#260A2F",
+		"textColor1": "#FFD7EF",
+		"linkColor1": "#FFC091",
+		"title2": "User Research, Prototyping & Visual Design",
+		"heading3": "UI/UX",
+		"heading4": "Design",
+		"para2": "Creating intuitive and beautiful interfaces that prioritize user experience while maintaining visual appeal and brand consistency.",
+		"href2": "View design projects",
+		"bgColor2": "#9FE870",
+		"textColor2": "#260A2F",
+		"linkColor2": "#260A2F",
+		"title3": "Backend APIs, Databases & Cloud Deployment",
+		"heading5": "Full-Stack",
+		"heading6": "Solutions",
+		"para3": "Developing complete web applications from database design to deployment, ensuring scalable architecture and seamless integration between frontend and backend systems.",
+		"href3": "View full-stack projects",
+		"bgColor3": "#163300",
+		"textColor3": "#9BE36D",
+		"linkColor3": "#FFC091",
+		"title4": "React Native, Flutter & Cross-Platform Development",
+		"heading7": "Mobile",
+		"heading8": "Applications",
+		"para4": "Creating native and cross-platform mobile applications that deliver smooth performance and engaging user experiences across iOS and Android devices.",
+		"href4": "View mobile projects",
+		"bgColor4": "#320707",
+		"textColor4": "#FFD7EF",
+		"linkColor4": "#FFC091"
+	},
+	"sliderContent": {
+		"sliderHeading1": "Crafting Digital Excellence",
+		"sliderHeading2": "Every great project is a journey that demands creativity, precision, and a passion for innovation.",
+		"sliderHeading3": "My philosophy is that every client has a vision; sometimes, you just need a developer who knows how to bring it to life. With my development process, I create a tailored approach aligned with your project's specific needs and goals.",
+		"title1": "Discover.",
+		"heading1": "From Concept to Requirements.",
+		"para1": "In the initial phase, I dive deep into understanding your vision, target audience, and project goals. Starting from your ideas, I analyze user needs, market trends, and technical requirements. My goal is not only to understand what you want to build but also to identify the best approach and technologies to bring your vision to life effectively.",
+		"title2": "Design.",
+		"heading2": "Wireframe, prototype & visualize.",
+		"para2": "Following discovery, I create detailed wireframes, prototypes, and design mockups that bring your ideas to life visually. Whether you need a complete design system or have existing designs, I ensure every interface element is optimized for user experience and aligns perfectly with your brand and project objectives.",
+		"title3": "Develop.",
+		"heading3": "Clean Code Meets Creative Vision.",
+		"para3": "During development, I transform designs into fully functional applications using modern technologies and best practices. I focus on writing clean, maintainable code while ensuring optimal performance, accessibility, and cross-platform compatibility. Regular updates keep you informed throughout the development process.",
+		"title4": "Test.",
+		"heading4": "Quality assurance & optimization.",
+		"para4": "Before launch, I conduct thorough testing across devices, browsers, and user scenarios. This includes performance optimization, security checks, and user experience validation. I ensure your application not only works flawlessly but also delivers exceptional performance and user satisfaction.",
+		"title5": "Deploy.",
+		"heading5": "This is where ideas come alive.",
+		"para5": "I handle the complete deployment process, from setting up hosting environments to configuring domains and SSL certificates. Post-launch, I provide ongoing support and maintenance to ensure your application continues to perform optimally. Your digital presence is launched with confidence and backed by reliable support."
+	},
+	"ourImpactContent": {
+		"ourImpactHeading1": "Client Testimonials",
+		"ourImpactHeading2": "I love collaborating with innovative companies, startups, and creative individuals!",
+		"title1": "Working with this developer was an exceptional experience. They brought our vision to life with clean, efficient code and stunning design. The attention to detail and commitment to delivering a high-quality product exceeded our expectations. Highly recommended for any web development project.",
+		"heading1": "Sarah Johnson",
+		"para1": "CEO & Founder - TechStart Solutions",
+		"title2": "The mobile app development was flawless from start to finish. Great communication, timely delivery, and a final product that our users absolutely love. The developer's expertise in both iOS and Android platforms saved us time and resources while delivering outstanding results.",
+		"heading2": "Michael Chen",
+		"para2": "Product Manager - InnovateLab"
+	},
+	"footerContent": {
+		"footerHeading1": "Every great project starts with a conversation. Let's discuss your ideas and bring them to life together.",
+		"footerHeading2": "Ready to create something amazing? Let's connect and turn your vision into reality.",
+		"footerBtn": "Get in touch"
+	}
+}
